@@ -1,0 +1,8 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+function updateTodo(todo) {
+    console.log('function ', 'updateTodo');
+    return todo;
+}
+exports.default = updateTodo;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJpbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOztBQUVBLFNBQXdCLFVBQVUsQ0FBQyxJQUFTO0lBQ3hDLE9BQU8sQ0FBQyxHQUFHLENBQUMsV0FBVyxFQUFHLFlBQVksQ0FBQyxDQUFDO0lBQ3hDLE9BQU8sSUFBSSxDQUFDO0FBQ2hCLENBQUM7QUFIRCw2QkFHQyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IFRvZG8gfSBmcm9tIFwiLi5cIjtcclxuXHJcbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIHVwZGF0ZVRvZG8odG9kbzpUb2RvKTpUb2Rve1xyXG4gICAgY29uc29sZS5sb2coJ2Z1bmN0aW9uICcgLCAndXBkYXRlVG9kbycpO1xyXG4gICAgcmV0dXJuIHRvZG87XHJcbn0iXX0=
